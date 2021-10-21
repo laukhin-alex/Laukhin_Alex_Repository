@@ -64,3 +64,5 @@ for i in 0..<newArray.count/2 {
         }
     }
 }
+
+print("Привет!!!")
